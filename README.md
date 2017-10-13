@@ -1,3 +1,11 @@
-# ElectronCode
+### Getting started
 
-This repository contains both boilerplates and completed code.  Check out the `boilerplates` and `completed_code` dirs.
+`npm install`
+
+Start dev server:
+
+`npm start`
+
+In a new terminal window:
+
+`npm run electron`
